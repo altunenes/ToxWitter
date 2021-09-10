@@ -1,4 +1,6 @@
 # **Step 1:** Import the necessary libraries
+python3 -m pip install tweepy
+
 import pandas as pd
 import numpy as np
 import streamlit as st
